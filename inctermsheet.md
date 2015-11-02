@@ -105,7 +105,7 @@ at which time the Company shall have no further obligation to make Cash Flow Pay
 	
 	(e) It is the intention of the parties that this security be treated as equity and not debt for tax purposes.
 
-(Signature page follows) 
+(Signature page follows)
 ​IN WITNESS WHEREOF, the undersigned have caused this instrument to be duly executed and delivered.
 
 **[company name], Inc.:**
