@@ -130,7 +130,7 @@ at which time the Company shall have no further obligation to make Cash Flow Pay
 
 Conversion Percentage
 
-[ %]
+Conversion Percentage is equal to [percentage], provided however, if on or before the fourth anniversary of the date of this agreement ( i.e. [date] ) Investor has received aggregate Cash Flow Payments pursuant to Section 3 in an amount equal to five times the Purchase Amount, then as of such date the Conversion Percentage shall be equal to [half of percentage].
 
  
 
