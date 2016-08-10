@@ -4,7 +4,7 @@ THIS INSTRUMENT AND ANY SECURITIES ISSUABLE PURSUANT HERETO HAVE NOT BEEN REGIST
 
 ## Indie.vc Agreement
 
-THIS CERTIFIES THAT in exchange for the payment by [Investment Entity], LLC. (the “Investor”) of $XXX,XXX.00 (the “Purchase Amount”) on or about May 6, 2015, [Company name], Inc., a [state] Corporation (the “Company”), hereby issues to the Investor the right to certain shares of the Company’s capital stock and the right to certain cash payments, subject to the terms set forth below.
+THIS CERTIFIES THAT in exchange for the payment by OATV IV, LP (the “Investor”) of $XXX,XXX.00 (the “Purchase Amount”) on or about [Date], [Company name], Inc., a [state] Corporation (the “Company”), hereby issues to the Investor the right to certain shares of the Company’s capital stock and the right to certain cash payments, subject to the terms set forth below.
 
 1. **Definitions**
 
@@ -117,7 +117,7 @@ at which time the Company shall have no further obligation to make Cash Flow Pay
 
 **INVESTOR:**
 
-    Indie.vc I, LLC
+    OATV IV, LP
     By:​         _______________________________________
     Name:​       _______________________________________
     Title:​      _______________________________________
