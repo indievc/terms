@@ -51,8 +51,8 @@ THIS CERTIFIES THAT in exchange for the payment by [Investment Entity], LLC. (th
 3. **Cash-Flow Sharing**
 
 	(a) Prior to the expiration or termination of this instrument, if at any time the Company, in its sole discretion, makes a Distribution, then the Company shall, as promptly as practicable following the payment of such Distribution, make a payment in cash to the Investor as follows (the “Cash Flow Payment”):
-		(i) the Company shall remit to the Investor an amount equal to the product of the amount of the Distribution multiplied by four (4), until such time as the total Cash Flow Payments equal two times (2X) the Purchase Price, then
-		(ii) the Company shall remit to the Investor an amount equal to the quotient of the amount of the Distribution divided by four, until such time as the total Cash Flow Payments equal five times (5X) the Purchase Price;
+		(i) the Company shall remit to the Investor an amount equal to the product of the amount of the Distribution multiplied by four (4), until such time as the total Cash Flow Payments equal two times (2X) the Purchase Amount, then
+		(ii) the Company shall remit to the Investor an amount equal to the quotient of the amount of the Distribution divided by four, until such time as the total Cash Flow Payments equal five times (5X) the Purchase Amount;
 at which time the Company shall have no further obligation to make Cash Flow Payments to the Investor hereunder.
 
 	(b) In the event the Distribution is made other than in cash, then the cash value of such Distribution shall be determined in good faith by the Company and the Investor and the Company shall pay the Cash Flow Payment to the Investor in cash in accordance with Section 3(a)(i) or (ii) above, as applicable.
