@@ -14,7 +14,7 @@ THIS CERTIFIES THAT in exchange for the payment by OATV IV, LP. (the “Investor
   * (ii) any reorganization, merger or consolidation of the Company, other than a transaction or series of related transactions in which the Capital Stock of the Company outstanding immediately prior to such transaction or series of related transactions represents, or is converted or exchanged into a majority of the Capital Stock of the Company or such other surviving or resulting entity or
   * (iii) a sale, lease or other disposition of all or substantially all of the assets of the Company.
 
-  “Company Capitalization” means the sum, as of immediately prior to the Equity Financing, of:    
+  “Company Capitalization” means the sum, as of immediately prior to the Equity Financing, of:
   * (1) all shares of Capital Stock (on an as-converted basis) issued and outstanding, assuming exercise or conversion of all outstanding vested and unvested options, warrants and other convertible securities, but excluding this instrument; and
   * (2) all shares of Common Stock reserved and available for future grant under any equity incentive or similar plan of the Company, and/or any equity incentive or similar plan to be created or increased in connection with the Equity Financing.
 
@@ -32,7 +32,7 @@ THIS CERTIFIES THAT in exchange for the payment by OATV IV, LP. (the “Investor
 
   “Next Round Preferred Stock” means the shares of a series of Preferred Stock issued to the investors investing new money in the Company in connection with the closing of the initial Equity Financing.
 
-## 2. Conversion  
+## 2. Conversion
 
   * (a) If there is an Equity Financing before the expiration or termination of this instrument, the Company will automatically issue to the Investor a number of shares of Next Round Preferred Stock equal to the Investor Conversion Share Amount. In connection with the issuance of Next Round Preferred Stock by the Company to the Investor pursuant to this Section 2(a): (i) The Investor will execute and deliver to the Company all transaction documents related to the Equity Financing; and
   * (b) If there is a Liquidity Event before the expiration or termination of this instrument, the Investor will automatically receive from the Company a number of shares of Common Stock equal to the Investor Conversion Share Amount.
@@ -112,15 +112,15 @@ IN WITNESS WHEREOF, the undersigned have caused this instrument to be duly execu
 
 ##### [Company], Inc.
 
-By: [name]  
-Address:   
-Email:  
+By: [name]
+Address:
+Email:
 
 ##### INVESTOR
-By:  
-Title:  
-Address:  
-Email:  
+By:
+Title:
+Address:
+Email:
 
 
 ---
