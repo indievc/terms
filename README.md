@@ -8,8 +8,10 @@ THIS CERTIFIES THAT in exchange for the payment by OATV IV, LP. (the “Investor
 
 ## 1. Definitions
 “Basic Financial Information” means (1) annual unaudited financial statements for each fiscal year of the Company; and (2) quarterly unaudited financial statements for each fiscal quarter of the Company (except the last quarter of the Company’s fiscal year), in each case prepared in accordance with generally accepted accounting principles and practices, subject to changes resulting from normal year-end audit adjustments.
-  “Capital Stock” means the capital stock of the Company, including, without limitation, the “Common Stock” and the “Preferred Stock.”
-  “Change of Control” means
+
+“Capital Stock” means the capital stock of the Company, including, without limitation, the “Common Stock” and the “Preferred Stock.”
+
+“Change of Control” means
   * (i) a transaction or series of related transactions in which any “person” or “group” (within the meaning of Section 13(d) and 14(d) of the Securities Exchange Act of 1934, as amended), becomes the “beneficial owner” (as defined in Rule 13d-3 under the Securities Exchange Act of 1934, as amended), directly or indirectly, of more than 50% of the outstanding voting securities of the Company having the right to vote for the election of members of the Company’s board of directors,
   * (ii) any reorganization, merger or consolidation of the Company, other than a transaction or series of related transactions in which the Capital Stock of the Company outstanding immediately prior to such transaction or series of related transactions represents, or is converted or exchanged into a majority of the Capital Stock of the Company or such other surviving or resulting entity or
   * (iii) a sale, lease or other disposition of all or substantially all of the assets of the Company.
