@@ -7,7 +7,7 @@ THIS INSTRUMENT AND ANY SECURITIES ISSUABLE PURSUANT HERETO HAVE NOT BEEN REGIST
 | Purchase Amount       	| $[ ]                                               	|
 | Purchase Date         	| On or about ___________, 2018                            	|
 | Percentage            	| [ ]% (subject to redemption as provided in Section 4)     	|
-| Conversion Trigger    	| $[ ] round of preferred                            	|
+| Conversion Trigger    	| $5,000,000 round of preferred                            	|
 | Redemption Start Date 	| 24 months after Purchase Date                            	|
 | Redemption Amount     	| [ ]% of the Company’s gross revenue (as defined by GAAP) 	|
 
