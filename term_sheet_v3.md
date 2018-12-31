@@ -33,8 +33,8 @@ THIS CERTIFIES THAT in exchange for the payment by OATV IV, LP (the “Purchaser
   * (d) Once the Company has paid the Max Redemption Payment, the Percentage will be redeemed down to 1%.  Each pro rata portion of the Max Redemption Payment will redeem a pro rata portion of the Percentage.  For example, if the Percentage is 10%, then Redemption Payments equal to 1x the Purchase Amount will redeem 3% of the Percentage.  And Redemption Payments equal to 1/3 of the Purchase Amount will redeem 1% of the Percentage.
   * (e) Subject to Section 4(f)(i) below, the Company may from time to time, in its sole discretion, make discretionary Redemption Payments prior to the 18 month anniversary of the date of this Agreement and/or in excess of the Redemption Amount for such calendar month (the excess above the minimum Redemption Payments required by Section 4(a) shall be referred to as a “Discretionary Redemption Payments”).
   * (f) Notwithstanding Section 4(e), if the Company fails to pay any Redemption Payments for two months in a row or for any three months in a rolling 12 month period, or if the Company voluntarily terminates operations or enters into a general assignment for the benefits of the Company’s creditors, then the Purchaser will have the option in its sole discretion:
-  * (i) to increase its Percentage by returning all Discretionary Redemption Payments that were made during the six months prior to the Next Financing or Change of Control; and
-  * (ii) to accelerate the entire Max Redemption Payment, which will become immediately due and payable.
+    * (i) to increase its Percentage by returning all Discretionary Redemption Payments that were made during the six months prior to the Next Financing or Change of Control; and
+    * (ii) to accelerate the entire Max Redemption Payment, which will become immediately due and payable.
 
 ## 5. Company Representations
 
@@ -102,4 +102,4 @@ Email:
 
 ---
 
-### Signature Page to Indie.vc Agreement
+#### Signature Page to Indie.vc Agreement
