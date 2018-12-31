@@ -3,7 +3,6 @@ THIS INSTRUMENT AND ANY SECURITIES ISSUABLE PURSUANT HERETO HAVE NOT BEEN REGIST
 # Indie.vc Agreement
 
 | Company               	| [Company name] Inc., a [State] corporation               	|
-|-----------------------	|----------------------------------------------------------	|
 | Purchase Amount       	| $[500,000]                                               	|
 | Purchase Date         	| On or about ___________, 2018                            	|
 | Percentage            	| 10% (subject to redemption as provided in Section 4)     	|
