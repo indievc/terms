@@ -1,8 +1,15 @@
 THIS INSTRUMENT AND ANY SECURITIES ISSUABLE PURSUANT HERETO HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), OR UNDER THE SECURITIES LAWS OF CERTAIN STATES.  THESE SECURITIES MAY NOT BE OFFERED, SOLD OR OTHERWISE TRANSFERRED, PLEDGED OR HYPOTHECATED EXCEPT AS PERMITTED UNDER THE ACT AND APPLICABLE STATE SECURITIES LAWS PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT OR AN EXEMPTION THEREFROM.
 
-[Company], Inc.
-
 # Indie.vc Agreement
+
+| Company               	| [Company name] Inc., a [State] corporation               	|
+|-----------------------	|----------------------------------------------------------	|
+| Purchase Amount       	| $[500,000]                                               	|
+| Purchase Date         	| On or about ___________, 2018                            	|
+| Percentage            	| 10% (subject to redemption as provided in Section 4)     	|
+| Conversion Trigger    	| $5,000,000 round of preferred                            	|
+| Redemption Start Date 	| 24 months after Purchase Date                            	|
+| Redemption Amount     	| [5%] of the Company’s gross revenue (as defined by GAAP) 	|
 
 THIS CERTIFIES THAT in exchange for the payment by OATV IV, LP (the “__*Purchaser*__”) of the Purchase Amount on the Purchase Date, the Company hereby issues to Purchaser the right to certain shares of the Company’s capital stock and other rights, subject to the terms set forth below.
 
