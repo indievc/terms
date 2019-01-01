@@ -10,6 +10,15 @@ THIS INSTRUMENT AND ANY SECURITIES ISSUABLE PURSUANT HERETO HAVE NOT BEEN REGIST
 
 # Indie.vc Agreement
 
+| Company               	| [Company name] Inc., a [State] corporation               	|
+|------------------------|-----------------------------------------------------------|
+| Purchase Amount       	| $[500,000]                                               	|
+| Purchase Date         	| On or about ___________, 2018                            	|
+| Percentage            	| [10]% (subject to redemption as provided in Section 4)     	|
+| Conversion Trigger    	| $[5,000,000] round of preferred                            	|
+| Redemption Start Date 	| [24] months after Purchase Date                            	|
+| Redemption Amount     	| [10]% of the Company’s gross revenue (as defined by GAAP) 	|
+
 THIS CERTIFIES THAT in exchange for the payment by OATV IV, LP (the “__*Purchaser*__”) of the Purchase Amount on the Purchase Date, the Company hereby issues to Purchaser the right to certain shares of the Company’s capital stock and other rights, subject to the terms set forth below.
 
 ## 1. Definitions
